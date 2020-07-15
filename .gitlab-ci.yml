@@ -65,6 +65,7 @@ robotpkg-example-adder-18.04-debug:
     - make install
     - build=$(make show-var VARNAME=CONFIGURE_DIRS); cd $(make show-var VARNAME=WRKSRC); cd $build
     - make test
+    - pldazpld
 
 robotpkg-py-example-adder-py3-16.04-debug:
   <<: *robotpkg-py-example-adder
