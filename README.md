@@ -1,4 +1,4 @@
-# Example project 
+# Example project
 
 [![Building Status](https://travis-ci.org/Gepetto/example-adder.svg?branch=master)](https://travis-ci.org/Gepetto/example-adder)
 [![Pipeline status](https://gepgitlab.laas.fr/gepetto/example-adder/badges/master/pipeline.svg)](https://gepgitlab.laas.fr/gepetto/example-adder/commits/master)
