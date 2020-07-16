@@ -24,6 +24,7 @@ cache:
     - make install
     - build=$(make show-var VARNAME=CONFIGURE_DIRS); cd $(make show-var VARNAME=WRKSRC); cd $build
     - make test
+    - fzefzef
 
 robotpkg-example-adder-16.04-release:
   <<: *robotpkg-example-adder
